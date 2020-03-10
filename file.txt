@@ -10,3 +10,8 @@ to jest zmiana przez gościa
 _________________________________
 to jest zmiana przez wlasciciela
 ---------------------------------
+
+
+_________________________________
+nowa zmiana przez gościa
+_________________________________
